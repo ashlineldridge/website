@@ -1,0 +1,10 @@
+#+title: My third post
+#+date: <2022-03-07 Mon>
+
+* Post 3
+
+#+begin_src rust
+  fn d<T>(t: T) -> Option<T> {
+      todo!()
+  }
+#+end_src
